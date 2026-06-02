@@ -22,8 +22,8 @@ void addArrays2D(int* c, const int* a, const int* b, int rows, int cols) {
     cudaError_t err;
 
     err = cudaMalloc(&d_a, bytes);
-    err |= cudaMalloc(&d_b, bytes);
-    err |= cudaMalloc(&d_c, bytes);
+    if (err == cudaSuccess) err = cudaMalloc(&d_b, bytes);
+    if (err == cudaSuccess) err = cudaMalloc(&d_c, bytes);
 
     if (err != cudaSuccess) {
         std::cerr << "cudaMalloc failed: " << cudaGetErrorString(err) << std::endl;
