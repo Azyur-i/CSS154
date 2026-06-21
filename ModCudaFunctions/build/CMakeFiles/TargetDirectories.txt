@@ -1,0 +1,3 @@
+C:/School/3rdYerar/3rd Ter,/CSS154/CSS154/ModCudaFunctions/build/CMakeFiles/vector_add.dir
+C:/School/3rdYerar/3rd Ter,/CSS154/CSS154/ModCudaFunctions/build/CMakeFiles/ALL_BUILD.dir
+C:/School/3rdYerar/3rd Ter,/CSS154/CSS154/ModCudaFunctions/build/CMakeFiles/ZERO_CHECK.dir

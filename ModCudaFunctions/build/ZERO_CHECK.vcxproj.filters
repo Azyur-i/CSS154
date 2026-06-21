@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\School\3rdYerar\3rd Ter,\CSS154\CSS154\ModCudaFunctions\build\CMakeFiles\a3a6d6613f86a9a5d107fa210c9eb907\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AF61D340-2057-31B5-8837-DA9B243438FA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
